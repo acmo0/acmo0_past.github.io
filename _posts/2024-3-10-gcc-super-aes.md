@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RSA Destroyer 
+title: Super AES 
 categories: Write-up 2024 cryptography lfsr symetric GCC
 ---
 # Super AES

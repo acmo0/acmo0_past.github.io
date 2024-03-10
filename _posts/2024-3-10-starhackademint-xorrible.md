@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RSA Destroyer 
+title: Xorrible 
 categories: Write-up 2023 cryptography
 ---
 # Xorrible

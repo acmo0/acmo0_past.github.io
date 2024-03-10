@@ -1,7 +1,7 @@
 ---
 layout: post
-title: RSA Destroyer 
-categories: Write-up 2023 cryptography
+title: Tu pointes ou tu tires 2/2
+categories: Write-up 2023 cryptography arithmetic
 ---
 # Tu tires ou tu pointes? 2/2
 ## Énnoncé
