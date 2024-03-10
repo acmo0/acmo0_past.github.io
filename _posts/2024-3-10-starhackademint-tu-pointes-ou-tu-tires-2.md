@@ -3,7 +3,7 @@ layout: post
 title: Tu pointes ou tu tires 2/2
 categories: Write-up 2023 cryptography arithmetic
 ---
-# Tu tires ou tu pointes? 2/2
+
 ## Énnoncé
 A la fin de la session d'entrainement avec Gégé, celui-ci se retourne vers vous et vous dit:
 "Allez minot, on passe aux choses sérieuses. Si tu arrives à bouger celle-là, je t'invite tous les samedi!"

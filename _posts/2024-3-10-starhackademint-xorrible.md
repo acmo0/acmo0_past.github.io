@@ -3,7 +3,7 @@ layout: post
 title: Xorrible 
 categories: Write-up 2023 cryptography
 ---
-# Xorrible
+
 ## Énnoncé
 Vous avez trouvé un message pipou chiffré en xor. Nos meilleurs analystes de MiNET nous disent que le mesage est beacoup trop long, et que le bruteforcer casseait la connexion intenet. Voulant déchiffrer ce message pipou comme tout ET permettre à Raphaël Bachelier de continer à passer ses nuits sur League of Legends, vous vous proposez de déchiffrer ce message :
 

@@ -3,14 +3,18 @@ layout: post
 title: Super AES 
 categories: Write-up 2024 cryptography lfsr symetric GCC
 ---
-# Super AES
+
 ## Description
-Come try my super AES encryptor
+
+Come try my super AES encryptor.
+
 > 28 solves
+
 ## Author
 [Shadowwws](https://twitter.com/Shadowwws7)
 ## Résolution
-Nous avons à disposition un "oracle" de chiffrement dont le conde nous est donnée :
+Nous avons à disposition un "oracle" de chiffrement dont le code nous est donnée :
+
 ```python
 import random
 from Cryptodome.Cipher import AES

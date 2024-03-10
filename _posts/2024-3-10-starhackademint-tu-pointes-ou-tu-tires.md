@@ -3,7 +3,7 @@ layout: post
 title: Tu pointes ou tu tires 1/2 
 categories: Write-up 2023 cryptography arithmetic
 ---
-# Tu pointes ou tu tires? 1/2
+
 ## Énnoncé
 A la fin d'une de vos traditionelles parti de boules du mardi avec les copaings, vous êtes interpellé par un duo qui vous a observé toute la partie:
 "-Eh minot, tu joues pas mal! On cherche du monde pour notre créneau du samedi midi, tu serais intéressé?
