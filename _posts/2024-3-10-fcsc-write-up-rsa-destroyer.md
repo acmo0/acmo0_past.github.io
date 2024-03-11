@@ -4,7 +4,6 @@ title: RSA Destroyer
 categories: Write-up FCSC fcsc 2021 cryptography
 ---
 
-# RSA Destroyer
 ## Challenge description : 
 *This destroyes the RSA cryptosystem.*
 ## Resolution :
