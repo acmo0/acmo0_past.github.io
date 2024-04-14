@@ -3,7 +3,6 @@ layout: post
 title: Secure FM
 categories: Write-up 2024 forencisc logs linux CVE-2023-46805 CVE-2024-21887 FCSC fcsc
 ---
-# Horreur, malheur
 ## Category
 Forensic
 ## Description
@@ -19,7 +18,7 @@ Note : La première partie (`Archive chiffrée`) débloque les autres parties, �
 > Before reading, it's important to notice that I solved the challenges in the order 2 -> 1 -> 3 -> 4
 
 And because a meme is always welcome, even if its not always the right tool to solve a forensic challenge, i used intensievly grep for this challenge so I have to mention it :
-![grep 'Have fun reading this write-up' grepping.jpg](images/memes/grepping.jpg)
+![grep 'Have fun reading this write-up' grepping.jpg](images/grepping.jpg)
 ***
 ## Horreur, malheur 1/5 - Archive chiffrée
 
@@ -201,7 +200,7 @@ So if I get the requests made at this endpoint of the API, I am able to decrypt 
 
 
 It's time to grep !
-![grep again !](memes/grep_again.gif)
+![grep again !](images/grep_again.gif)
 
 ```bash
 grep -o 'cmd=.*' cav_webserv.log | grep -v 404 | sed -En 's/cmd=(.*+%3D) .*/\1/p'
