@@ -3,7 +3,6 @@ layout: post
 title: Secure FM
 categories: Write-up 2024 hardware radio-frequencies fm fhss FCSC fcsc
 ---
-# Secure FM
 ![meme](images/memes/antenna.jpeg)
 # Category
 Hardware
