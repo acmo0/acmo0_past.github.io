@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Secure FM
+title: Horreur Malheur
 categories: Write-up 2024 forencisc logs linux CVE-2023-46805 CVE-2024-21887 FCSC fcsc
 ---
 ## Category
