@@ -15,10 +15,11 @@ En arrivant à votre bureau le premier jour, vous vous rendez compte que votre p
 Note : La première partie (`Archive chiffrée`) débloque les autres parties, à l'exception de la seconde partie (`Accès initial`) qui peut être traitée indépendamment. Nous vous recommandons de traiter les parties dans l'ordre.
 
 ***
+
 > Before reading, it's important to notice that I solved the challenges in the order 2 -> 1 -> 3 -> 4
 
 And because a meme is always welcome, even if its not always the right tool to solve a forensic challenge, i used intensievly grep for this challenge so I have to mention it :
-![grep 'Have fun reading this write-up' grepping.jpg](images/grepping.jpg)
+![grepping.jpg](images/grepping.jpg)
 ***
 ## Horreur, malheur 1/5 - Archive chiffrée
 
