@@ -14,13 +14,15 @@ En arrivant à votre bureau le premier jour, vous vous rendez compte que votre p
 
 Note : La première partie (`Archive chiffrée`) débloque les autres parties, à l'exception de la seconde partie (`Accès initial`) qui peut être traitée indépendamment. Nous vous recommandons de traiter les parties dans l'ordre.
 
-***
+
 
 > Before reading, it's important to notice that I solved the challenges in the order 2 -> 1 -> 3 -> 4
 
 And because a meme is always welcome, even if its not always the right tool to solve a forensic challenge, i used intensievly grep for this challenge so I have to mention it :
 ![grepping.jpg](https://acmo0.github.io/images/grepping.jpg)
-***
+
+
+
 ## Horreur, malheur 1/5 - Archive chiffrée
 
 > Sur la clé USB, vous trouvez deux fichiers : une archive chiffrée et les journaux de l'équipement. Vous commencez par lister le contenu de l'archive, dont vous ne connaissez pas le mot de passe. Vous gardez en tête un article que vous avez lu : il paraît que les paquets installés sur l'équipement ne sont pas à jour...
@@ -303,5 +305,6 @@ So the flag is FCSC{ssh:1337:/data/runtime/etc/ssh/sshd_server_config:/data/runt
 
 By looking at the script found in part.3, it's obvious that the IP should be 146.0.228.66. A quick search on internet make me think that the attacker is named under the code : UNC5221.
 However, after investigation, I did't find the other part of the flag
-***
+
+
 *Write-up author : acmo0*
