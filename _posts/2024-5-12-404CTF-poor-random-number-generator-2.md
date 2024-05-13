@@ -3,7 +3,7 @@ layout: post
 title: Poor Random Number Generator [2/2]
 categories: Write-up 404CTF 2024 crypto medium
 ---
-![](images/prng2_screenshot.png)
+![](https://acmo0.github.io/images/prng2_screenshot.png)
 
 # Résolution
 
