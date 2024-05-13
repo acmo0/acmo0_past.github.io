@@ -65,6 +65,10 @@ def verify(polys, states, generated):
 
 Voici le code entier, parallélisé en python :
 ```python
+# 404CTF 2024
+# Challenge : Poor Random Number Generator 2, medium
+# Authors : acmo0
+
 from LFSR import LFSR
 from generator import CombinerGenerator
 import itertools

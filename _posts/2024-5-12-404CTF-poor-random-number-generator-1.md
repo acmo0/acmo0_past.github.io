@@ -21,6 +21,10 @@ De plus on dispose du début en clair du fichier *flag.png*.
 
 Voici la solution implémentée en python3 :
 ```python
+# 404CTF 2024
+# Challenge : Poor Random Number Generator 1, medium
+# Authors : acmo0
+
 from my_random import Generator
 
 def get_blocks(data,block_size):
